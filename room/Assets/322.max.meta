@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 2ace6ea820d2f9647b13c222b8ea19ca
+timeCreated: 1544466212
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 3dlancerMain
+    100004: Group01
+    100006: Group02
+    100008: Rectangle0
+    100010: Rectangle1
+    100012: Rectangle2
+    100014: Rectangle3
+    100016: Rectangle4
+    100018: Sphere01
+    100020: Sphere02
+    100022: Sphere03
+    100024: Sphere06
+    100026: Sun01
+    100028: Sun01.Target
+    100030: Tube01
+    100032: Tube02
+    100034: Tube03
+    100036: Tube04
+    100038: Tube05
+    100040: Tube06
+    100042: Tube11
+    100044: Tube12
+    400000: //RootNode
+    400002: 3dlancerMain
+    400004: Group01
+    400006: Group02
+    400008: Rectangle0
+    400010: Rectangle1
+    400012: Rectangle2
+    400014: Rectangle3
+    400016: Rectangle4
+    400018: Sphere01
+    400020: Sphere02
+    400022: Sphere03
+    400024: Sphere06
+    400026: Sun01
+    400028: Sun01.Target
+    400030: Tube01
+    400032: Tube02
+    400034: Tube03
+    400036: Tube04
+    400038: Tube05
+    400040: Tube06
+    400042: Tube11
+    400044: Tube12
+    2300000: Rectangle0
+    2300002: Rectangle1
+    2300004: Rectangle2
+    2300006: Rectangle3
+    2300008: Rectangle4
+    2300010: Sphere01
+    2300012: Sphere02
+    2300014: Sphere03
+    2300016: Sphere06
+    2300018: Tube01
+    2300020: Tube02
+    2300022: Tube03
+    2300024: Tube04
+    2300026: Tube05
+    2300028: Tube06
+    2300030: Tube11
+    2300032: Tube12
+    3300000: Rectangle0
+    3300002: Rectangle1
+    3300004: Rectangle2
+    3300006: Rectangle3
+    3300008: Rectangle4
+    3300010: Sphere01
+    3300012: Sphere02
+    3300014: Sphere03
+    3300016: Sphere06
+    3300018: Tube01
+    3300020: Tube02
+    3300022: Tube03
+    3300024: Tube04
+    3300026: Tube05
+    3300028: Tube06
+    3300030: Tube11
+    3300032: Tube12
+    4300000: Sphere02
+    4300002: Rectangle1
+    4300004: Tube01
+    4300006: Sphere01
+    4300008: Tube04
+    4300010: Rectangle2
+    4300012: Tube02
+    4300014: Tube03
+    4300016: Rectangle0
+    4300018: Tube05
+    4300020: Sphere03
+    4300022: Tube06
+    4300024: Rectangle4
+    4300026: Sphere06
+    4300028: Tube11
+    4300030: Tube12
+    4300032: Rectangle3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

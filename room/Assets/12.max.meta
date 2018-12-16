@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: d104f5351b2e57d4abd6c4db29b313c7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: archmodels88_002_001
+    100004: archmodels88_002_001_MeshPart0
+    100006: archmodels88_002_001_MeshPart1
+    100008: archmodels88_002_001_MeshPart10
+    100010: archmodels88_002_001_MeshPart11
+    100012: archmodels88_002_001_MeshPart12
+    100014: archmodels88_002_001_MeshPart13
+    100016: archmodels88_002_001_MeshPart14
+    100018: archmodels88_002_001_MeshPart15
+    100020: archmodels88_002_001_MeshPart2
+    100022: archmodels88_002_001_MeshPart3
+    100024: archmodels88_002_001_MeshPart4
+    100026: archmodels88_002_001_MeshPart5
+    100028: archmodels88_002_001_MeshPart6
+    100030: archmodels88_002_001_MeshPart7
+    100032: archmodels88_002_001_MeshPart8
+    100034: archmodels88_002_001_MeshPart9
+    100036: archmodels88_002_002
+    100038: archmodels88_002_003
+    100040: archmodels88_002_004
+    100042: archmodels88_002_004_MeshPart0
+    100044: archmodels88_002_004_MeshPart1
+    100046: archmodels88_002_004_MeshPart2
+    100048: archmodels88_002_004_MeshPart3
+    100050: archmodels88_002_004_MeshPart4
+    400000: //RootNode
+    400002: archmodels88_002_001
+    400004: archmodels88_002_001_MeshPart0
+    400006: archmodels88_002_001_MeshPart1
+    400008: archmodels88_002_001_MeshPart10
+    400010: archmodels88_002_001_MeshPart11
+    400012: archmodels88_002_001_MeshPart12
+    400014: archmodels88_002_001_MeshPart13
+    400016: archmodels88_002_001_MeshPart14
+    400018: archmodels88_002_001_MeshPart15
+    400020: archmodels88_002_001_MeshPart2
+    400022: archmodels88_002_001_MeshPart3
+    400024: archmodels88_002_001_MeshPart4
+    400026: archmodels88_002_001_MeshPart5
+    400028: archmodels88_002_001_MeshPart6
+    400030: archmodels88_002_001_MeshPart7
+    400032: archmodels88_002_001_MeshPart8
+    400034: archmodels88_002_001_MeshPart9
+    400036: archmodels88_002_002
+    400038: archmodels88_002_003
+    400040: archmodels88_002_004
+    400042: archmodels88_002_004_MeshPart0
+    400044: archmodels88_002_004_MeshPart1
+    400046: archmodels88_002_004_MeshPart2
+    400048: archmodels88_002_004_MeshPart3
+    400050: archmodels88_002_004_MeshPart4
+    2300000: archmodels88_002_001_MeshPart0
+    2300002: archmodels88_002_001_MeshPart1
+    2300004: archmodels88_002_001_MeshPart10
+    2300006: archmodels88_002_001_MeshPart11
+    2300008: archmodels88_002_001_MeshPart12
+    2300010: archmodels88_002_001_MeshPart13
+    2300012: archmodels88_002_001_MeshPart14
+    2300014: archmodels88_002_001_MeshPart15
+    2300016: archmodels88_002_001_MeshPart2
+    2300018: archmodels88_002_001_MeshPart3
+    2300020: archmodels88_002_001_MeshPart4
+    2300022: archmodels88_002_001_MeshPart5
+    2300024: archmodels88_002_001_MeshPart6
+    2300026: archmodels88_002_001_MeshPart7
+    2300028: archmodels88_002_001_MeshPart8
+    2300030: archmodels88_002_001_MeshPart9
+    2300032: archmodels88_002_002
+    2300034: archmodels88_002_003
+    2300036: archmodels88_002_004_MeshPart0
+    2300038: archmodels88_002_004_MeshPart1
+    2300040: archmodels88_002_004_MeshPart2
+    2300042: archmodels88_002_004_MeshPart3
+    2300044: archmodels88_002_004_MeshPart4
+    3300000: archmodels88_002_001_MeshPart0
+    3300002: archmodels88_002_001_MeshPart1
+    3300004: archmodels88_002_001_MeshPart10
+    3300006: archmodels88_002_001_MeshPart11
+    3300008: archmodels88_002_001_MeshPart12
+    3300010: archmodels88_002_001_MeshPart13
+    3300012: archmodels88_002_001_MeshPart14
+    3300014: archmodels88_002_001_MeshPart15
+    3300016: archmodels88_002_001_MeshPart2
+    3300018: archmodels88_002_001_MeshPart3
+    3300020: archmodels88_002_001_MeshPart4
+    3300022: archmodels88_002_001_MeshPart5
+    3300024: archmodels88_002_001_MeshPart6
+    3300026: archmodels88_002_001_MeshPart7
+    3300028: archmodels88_002_001_MeshPart8
+    3300030: archmodels88_002_001_MeshPart9
+    3300032: archmodels88_002_002
+    3300034: archmodels88_002_003
+    3300036: archmodels88_002_004_MeshPart0
+    3300038: archmodels88_002_004_MeshPart1
+    3300040: archmodels88_002_004_MeshPart2
+    3300042: archmodels88_002_004_MeshPart3
+    3300044: archmodels88_002_004_MeshPart4
+    4300000: archmodels88_002_003
+    4300002: archmodels88_002_002
+    4300004: archmodels88_002_004_MeshPart0
+    4300006: archmodels88_002_004_MeshPart1
+    4300008: archmodels88_002_004_MeshPart2
+    4300010: archmodels88_002_004_MeshPart3
+    4300012: archmodels88_002_004_MeshPart4
+    4300014: archmodels88_002_001_MeshPart0
+    4300016: archmodels88_002_001_MeshPart1
+    4300018: archmodels88_002_001_MeshPart2
+    4300020: archmodels88_002_001_MeshPart3
+    4300022: archmodels88_002_001_MeshPart4
+    4300024: archmodels88_002_001_MeshPart5
+    4300026: archmodels88_002_001_MeshPart6
+    4300028: archmodels88_002_001_MeshPart7
+    4300030: archmodels88_002_001_MeshPart8
+    4300032: archmodels88_002_001_MeshPart9
+    4300034: archmodels88_002_001_MeshPart10
+    4300036: archmodels88_002_001_MeshPart11
+    4300038: archmodels88_002_001_MeshPart12
+    4300040: archmodels88_002_001_MeshPart13
+    4300042: archmodels88_002_001_MeshPart14
+    4300044: archmodels88_002_001_MeshPart15
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #0'
+    second: {fileID: 2100000, guid: aafcf0e12e3bee24eb824f8fe38a9abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: f5734366e25cef04bae63dd198aaa5b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #2'
+    second: {fileID: 2100000, guid: 5598faef284b59d42a056dbb8cae4ea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 5684e04041a48e74fa633b5700354196, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

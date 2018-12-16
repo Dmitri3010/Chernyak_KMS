@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 6d7d558c3f241b24fbe6eff5783721b1
+timeCreated: 1544361974
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box004
+    100004: Box005
+    100006: Box006
+    100008: Box007
+    100010: Box008
+    100012: Box012
+    100014: Box013
+    100016: Box014
+    100018: Box015
+    100020: Box016
+    100022: Box017
+    100024: Box018
+    100026: Box019
+    100028: Box021
+    100030: ChamferCyl001
+    100032: Circle001
+    100034: Cylinder001
+    100036: Cylinder003
+    100038: Cylinder005
+    100040: Cylinder006
+    100042: Cylinder007
+    100044: Helix001
+    100046: Line001
+    100048: Line002
+    100050: Line003
+    100052: Loft005
+    100054: Loft008
+    100056: Loft009
+    100058: NGon001
+    100060: OilTank001
+    100062: OilTank002
+    100064: OilTank003
+    100066: OilTank004
+    100068: PhysCamera001
+    100070: PhysCamera001.Target
+    100072: Pyramid001
+    100074: Text001
+    100076: Text002
+    100078: Text003
+    100080: Text004
+    100082: Text005
+    100084: "\u0442\u043E\u0440\u0443\u0441 \u0447\u0435\u0440\u043D"
+    400000: //RootNode
+    400002: Box004
+    400004: Box005
+    400006: Box006
+    400008: Box007
+    400010: Box008
+    400012: Box012
+    400014: Box013
+    400016: Box014
+    400018: Box015
+    400020: Box016
+    400022: Box017
+    400024: Box018
+    400026: Box019
+    400028: Box021
+    400030: ChamferCyl001
+    400032: Circle001
+    400034: Cylinder001
+    400036: Cylinder003
+    400038: Cylinder005
+    400040: Cylinder006
+    400042: Cylinder007
+    400044: Helix001
+    400046: Line001
+    400048: Line002
+    400050: Line003
+    400052: Loft005
+    400054: Loft008
+    400056: Loft009
+    400058: NGon001
+    400060: OilTank001
+    400062: OilTank002
+    400064: OilTank003
+    400066: OilTank004
+    400068: PhysCamera001
+    400070: PhysCamera001.Target
+    400072: Pyramid001
+    400074: Text001
+    400076: Text002
+    400078: Text003
+    400080: Text004
+    400082: Text005
+    400084: "\u0442\u043E\u0440\u0443\u0441 \u0447\u0435\u0440\u043D"
+    2300000: Box004
+    2300002: Box005
+    2300004: Box006
+    2300006: Box007
+    2300008: Box008
+    2300010: Box012
+    2300012: Box013
+    2300014: Box014
+    2300016: Box015
+    2300018: Box016
+    2300020: Box017
+    2300022: Box018
+    2300024: Box019
+    2300026: Box021
+    2300028: ChamferCyl001
+    2300030: Cylinder001
+    2300032: Cylinder003
+    2300034: Cylinder005
+    2300036: Cylinder006
+    2300038: Cylinder007
+    2300040: Line001
+    2300042: Loft005
+    2300044: Loft008
+    2300046: Loft009
+    2300048: OilTank001
+    2300050: OilTank002
+    2300052: OilTank003
+    2300054: OilTank004
+    2300056: Pyramid001
+    2300058: "\u0442\u043E\u0440\u0443\u0441 \u0447\u0435\u0440\u043D"
+    3300000: Box004
+    3300002: Box005
+    3300004: Box006
+    3300006: Box007
+    3300008: Box008
+    3300010: Box012
+    3300012: Box013
+    3300014: Box014
+    3300016: Box015
+    3300018: Box016
+    3300020: Box017
+    3300022: Box018
+    3300024: Box019
+    3300026: Box021
+    3300028: ChamferCyl001
+    3300030: Cylinder001
+    3300032: Cylinder003
+    3300034: Cylinder005
+    3300036: Cylinder006
+    3300038: Cylinder007
+    3300040: Line001
+    3300042: Loft005
+    3300044: Loft008
+    3300046: Loft009
+    3300048: OilTank001
+    3300050: OilTank002
+    3300052: OilTank003
+    3300054: OilTank004
+    3300056: Pyramid001
+    3300058: "\u0442\u043E\u0440\u0443\u0441 \u0447\u0435\u0440\u043D"
+    4300000: Line001
+    4300002: Cylinder001
+    4300004: Box004
+    4300006: Box005
+    4300008: Box006
+    4300010: Box007
+    4300012: Box008
+    4300014: Box012
+    4300016: OilTank001
+    4300018: ChamferCyl001
+    4300020: Box013
+    4300022: Box014
+    4300024: Box015
+    4300026: Box016
+    4300028: Box017
+    4300030: OilTank002
+    4300032: OilTank003
+    4300034: OilTank004
+    4300036: Box018
+    4300038: "\u0442\u043E\u0440\u0443\u0441 \u0447\u0435\u0440\u043D"
+    4300040: Pyramid001
+    4300042: Box019
+    4300044: Cylinder003
+    4300046: Cylinder005
+    4300048: Cylinder006
+    4300050: Cylinder007
+    4300052: Loft005
+    4300054: Loft008
+    4300056: Loft009
+    4300058: Box021
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
